@@ -1,0 +1,11 @@
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.exe
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.deps.json
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.runtimeconfig.json
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.runtimeconfig.dev.json
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.dll
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\bin\Debug\netcoreapp3.1\VeiculoCSharp.pdb
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\obj\Debug\netcoreapp3.1\VeiculoCSharp.csprojAssemblyReference.cache
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\obj\Debug\netcoreapp3.1\VeiculoCSharp.AssemblyInfoInputs.cache
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\obj\Debug\netcoreapp3.1\VeiculoCSharp.AssemblyInfo.cs
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\obj\Debug\netcoreapp3.1\VeiculoCSharp.dll
+C:\Users\GEDO\source\repos\VeiculoCSharp\VeiculoCSharp\obj\Debug\netcoreapp3.1\VeiculoCSharp.pdb
